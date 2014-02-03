@@ -1,0 +1,13 @@
+{
+    "name": "torokp/udb",
+    "description": "Minimal PHP save array to CSV and load",
+    "authors": [
+        {
+            "name": "Peter Torok",
+            "email": "torokp@progterv.info"
+        }
+    ],
+    "require": {
+
+    }
+}
